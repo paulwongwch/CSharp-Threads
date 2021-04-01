@@ -1,0 +1,7 @@
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\bin\Debug\CSharpThreadTutorial.exe.config
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\bin\Debug\CSharpThreadTutorial.exe
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\bin\Debug\CSharpThreadTutorial.pdb
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\obj\Debug\CSharpThreadTutorial.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\obj\Debug\CSharpThreadTutorial.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\obj\Debug\CSharpThreadTutorial.exe
+C:\Users\paulw\source\repos\CSharpThreadTutorial\CSharpThreadTutorial\obj\Debug\CSharpThreadTutorial.pdb
